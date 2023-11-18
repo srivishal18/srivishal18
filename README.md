@@ -1,6 +1,6 @@
 -  Hi, I’m @srivishal18, an undergrad at UIC majoring in Computer Engineering. 
 -  I'm enthusiastically pursuing the development of projects that enhance my coding prowess, enabling me to grow into a skilled and professional programmer!
--  Skills: Python,C++, HTML, and MySQL
+
   
 
 <!---
